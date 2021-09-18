@@ -2,7 +2,7 @@
 layout: post
 title: Flake it till you make it
 subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/coderjpg.jpg
 thumbnail-img: /assets/img/data1.jpg
 share-img: /assets/img/path.jpg
 tags: [books, test]
